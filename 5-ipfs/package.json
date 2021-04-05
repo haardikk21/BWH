@@ -1,0 +1,17 @@
+{
+  "name": "5-ipfs",
+  "version": "1.0.0",
+  "description": "What is IPFS?",
+  "main": "index.js",
+  "dependencies": {
+    "cids": "^1.1.6",
+    "ipfs": "^0.54.4"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haardik",
+  "license": "ISC"
+}
